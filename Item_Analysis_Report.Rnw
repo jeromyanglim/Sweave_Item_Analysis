@@ -54,7 +54,7 @@ The test items were developed by students as part of an informal
 class exercise.
 They are by design of widely varying quality and difficulty.
 For a copy and explanation of the source code, go to
-\url{http://jeromyanglim.blogspot.com}
+\url{http://jeromyanglim.blogspot.com/2010/11/sweave-tutorial-3-console-input-and.html}
 \end{abstract}
 
 \section{Import Data}
@@ -256,13 +256,14 @@ Assuming a similar number of good and bad items,
 this would require an initial pool of around
 \Sexpr{ceiling(sbrown$totalItemCount)} items.  
 It should also be noted that these are probably under estimates
-given the relatively small sample size, item total correlations
+given (a) the relatively small sample size, 
+and (b) item total correlations
 and alpha are likely to be positively biased due to the selection 
 procedure used for identifying good test items. 
 
 
 \section{Conclusion}
-If you get a bunch of student 
+If you get a bunch of students 
 and give them five minutes to write a bunch of random test items,
 don't expect the resulting scale to have
 good psychometric properties.  

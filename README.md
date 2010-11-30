@@ -14,11 +14,11 @@ class exercise.
 They are by design of widely varying quality and difficulty.
 
 Further discussion of the source code is available at
-<http://jeromyanglim.blogspot.com>
+<http://jeromyanglim.blogspot.com/2010/11/sweave-tutorial-3-console-input-and.html>
 
 
 # Requirements
-The code was run developed with 
+The code was tested with: 
 
 * R 2.11.1
 * R Tools 2.11 (i.e., one way of getting `make`)
